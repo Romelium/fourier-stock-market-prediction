@@ -1,0 +1,11 @@
+[project]
+name = "1d-continuous-optimal-model"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "ipympl>=0.9.5",
+    "pip>=24.3.1",
+]
